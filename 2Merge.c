@@ -72,6 +72,17 @@ int main()
 
 // Output:
 // Given array is:
-// Srinivas Lakshmi Gopi Krishna Rama Partha
+// Srinivas
+// Lakshmi 
+// Gopi 
+// Krishna 
+// Rama 
+// Partha
+
 // Sorted array in Dictionary Order:
-// Gopi Krishna Lakshmi Partha Rama Srinivas
+// Gopi 
+// Krishna 
+// Lakshmi 
+// Partha 
+// Rama 
+// Srinivas
