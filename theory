@@ -1,0 +1,12 @@
+Based on the above results, draw the conclusion about the stability of the merge and quick sort algorithms.
+
+Apply the Quick Sort for the first sorting and Quick Sort for the second sorting.
+
+Conclusion: Quick Sort is not a stable sorting algorithm, as the order of elements with the same key is not maintained. On the other hand, Merge Sort is a stable sorting algorithm, as the order of elements with the same key is maintained.
+
+a) What is meant by In-place sorting algorithm? 
+b) What is meant by Stable sorting algorithm?
+
+In-place sorting is a type of sorting algorithm that sorts a list or array in-place, and does not require any additional space. This type of sorting algorithm is efficient when dealing with large datasets, as it does not require extra memory or storage. Examples of in-place sorting algorithms include Quick Sort, Heap Sort, Insertion Sort and Selection Sort. 
+
+Stable sorting is a type of sorting algorithm that preserves the order of elements with the same key when sorting the list or array. Stable sorting algorithms maintain the relative order of equal elements in the original list or array. This can be beneficial when dealing with datasets that contain multiple elements with the same key. Examples of stable sorting algorithms include Merge Sort, Bubble Sort and Insertion Sort.
